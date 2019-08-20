@@ -1,12 +1,7 @@
-# Advanced_Data_Storage_and_Retrieval
+# Climate-Analysis-Data-and-Exploration
 Advanced Data Storage and Retrieval
 
-Exercise in file:     
+Using Python and SQLAlchemy to do basic climate analysis and data exploration of a climate database. All of the analysis is completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
-climate_starter.ipynb
-
-Climate App in file:  app.py  (flask exercise)
-
-In the folder Resources is the database with which the two files work, and is the path to work with it.
 
 
